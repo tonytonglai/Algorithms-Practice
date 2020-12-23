@@ -33,7 +33,7 @@ def selectionSort(arr):
     return arr
 
 
-array1 = [9, 7, 1, 3, 5]
+array1 = [5, 3, 6, 2, 10]
 # print(findSmallest(array1))
 print(selectionSort(array1))
 
