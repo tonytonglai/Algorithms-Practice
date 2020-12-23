@@ -18,6 +18,7 @@ def binary_search(list, item):
         #if guess is greater than item
         else:
             low = mid + 1
+        #hi
 
     return None
 
